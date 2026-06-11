@@ -20,7 +20,7 @@ Sistema inteligente de detección de obstáculos para trenes de alta velocidad.
 
 ## Demo
 
-[GIF]
+<img width="1536" height="1024" alt="ChatGPT Image 10 jun 2026, 10_28_58 p m" src="https://github.com/user-attachments/assets/5c1490f0-b9da-42e6-a495-822e9fed234c" />
 
 ## Arquitectura
 
