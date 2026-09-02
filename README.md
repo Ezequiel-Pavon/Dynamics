@@ -1,6 +1,6 @@
 # Pampa-Dynamics
 
-Sistema inteligente de detección de obstáculos para trenes de alta velocidad.
+Sistema inteligente de detección de obstáculos para vehiculos de alta velocidad.
 
 ## Tecnologías
 
