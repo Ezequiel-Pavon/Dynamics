@@ -1,4 +1,4 @@
-# Pampa-Dynamics
+# Dynamics
 
 Sistema inteligente de detección de obstáculos para vehiculos de alta velocidad.
 
