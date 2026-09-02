@@ -27,7 +27,7 @@ Sistema inteligente de detección de obstáculos para vehiculos de alta velocida
                    VIDEO
                      │
                      ▼
-                OpenCV
+                   OpenCV
                      │
                      ▼
                   YOLOv8
